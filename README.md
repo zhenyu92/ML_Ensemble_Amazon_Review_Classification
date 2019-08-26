@@ -41,9 +41,10 @@ Feedback (1: Good, 2: Bad)
       3.3 Data Cleaning
     4 Train Test Split
     5 Select and Train a Model
-      5.1 Random Tree Model
+      5.1 Decision Tree Model
     6 Apply Model on Test Set
     7 Improve the Model
+      7.1 Random Forest Model
     ```   
 
 ### Model Performance
