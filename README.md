@@ -1,4 +1,4 @@
-# A study on Amazon Review Classification using Random Forest.
+# A study on Amazon Review Classification using Ensemble Methods.
 This project is a part of the learning milestone of a Udemy course delivered by [SuperDataScience Team](https://www.udemy.com/machine-learning-classification/). 
 
 ### Author
