@@ -30,7 +30,7 @@ Feedback (1: Good, 2: Bad)
 
 ### Instructions
 1. Downloaded the [dataset](https://github.com/zhenyu92/ML_Random_Forest_Amazon_Review_Classification/blob/master/amazon_alexa.tsv).
-2. Run and execute the [IPython](https://github.com/zhenyu92/ML_Random_Forest_Amazon_Review_Classification/blob/master/Decision%20Trees%20for%20Amazon%20Reviews%20Classification.ipynb).
+2. Run and execute the [IPython](https://github.com/zhenyu92/ML_Ensemble_Amazon_Review_Classification/blob/master/RF%20-%20Amazon%20Reviews%20Classification.ipynb).
     The following will be covered, and return a prediction.
     ```
     1 Importing Relevant Libraries
